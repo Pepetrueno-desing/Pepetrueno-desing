@@ -1,0 +1,25 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Entornos y secretos
+.env
+*.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Salidas de pruebas
+.coverage
+htmlcov/
+*.log
