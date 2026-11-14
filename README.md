@@ -4,7 +4,7 @@
 
 Ingeniero en Ciencias Gerenciales con **10 años en SAP PP/MM, logística y análisis de datos**, en transición activa hacia **QA Automation con Python**. Aporto algo poco común en QA junior: **visión de negocio + criterio funcional SAP + capacidad técnica en pruebas automatizadas de API y UI**.
 
-- 🔭 Actualmente: **proyecto final integrador**
+- 🔭 Actualmente: **proyecto final integrador completado**
 - 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP
 - 🌱 Aprendiendo: Playwright, GitHub Actions, Postman avanzado, Implementacion de RAG
 - 💬 Pregúntame sobre: pytest, requests, Selenium, POM, SAP PP/MM, Power BI, logística
