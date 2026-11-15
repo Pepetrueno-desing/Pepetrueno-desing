@@ -8,7 +8,7 @@ Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras
 - 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP
 - 🌱 Aprendiendo: Playwright, Postman avanzado, Implementacion de RAG
 - 💬 Pregúntame sobre: pytest, requests, Selenium, POM, SAP PP/MM, Power BI, logística
-- 📫 Contacto: mendozagomez0203@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b) | [Portafolio](https://pepetrueno-desing.github.io)
+- 📫 Contacto: mendozagomez0203@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b) | [Portafolio](https://juanmendoza-qa.github.io)
 
 ---
 
@@ -43,33 +43,33 @@ Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras
 
 ## 🚀 Proyectos Destacados
 
-### 🧪 [api_stand_tests](https://github.com/Pepetrueno-desing/api_stand_tests) — API Testing
+### 🧪 [api_stand_tests](https://github.com/juanmendoza-qa/api_stand_tests) — API Testing
 Framework de pruebas automatizadas de API con **pytest + requests** para validar endpoints de creación de usuarios.
 - **10 tests** cubriendo happy path, validación de campos y códigos de error
 - Estructura modular con fixtures y parametrización
 - **Tecnologías:** Python, pytest, requests, JSON Schema
 
-### 🛒 [qa-project-Urban-Grocers-app-es](https://github.com/Pepetrueno-desing/qa-project-Urban-Grocers-app-es) — API Testing + Bug Reporting
+### 🛒 [qa-project-Urban-Grocers-app-es](https://github.com/juanmendoza-qa/qa-project-Urban-Grocers-app-es) — API Testing + Bug Reporting
 Suite de pruebas para la API de creación de kits de Urban Grocers.
 - **9 tests** (5 passed, 4 failed) → **4 bugs documentados y enviados a revisión**
 - Análisis de causa raíz y reporte estructurado de defectos
 - **Tecnologías:** Python, pytest, requests
 
-### 🚕 [qa-project-Urban-Routes-es](https://github.com/Pepetrueno-desing/qa-project-Urban-Routes-es) — UI Testing + POM
+### 🚕 [qa-project-Urban-Routes-es](https://github.com/juanmendoza-qa/qa-project-Urban-Routes-es) — UI Testing + POM
 Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el flujo completo de pedido de taxi.
 - **8 tests** cubriendo: ruta, tarifa Comfort, teléfono (con SMS), tarjeta de crédito, mensaje, manta, helados y confirmación
 - **Page Object Model** con separación de localizadores y lógica
 - Esperas explícitas (`WebDriverWait` + `expected_conditions`), JS clicks, manejo de modales y overlays
 - **Tecnologías:** Python, Selenium, pytest, POM
 
-### 🏗️ [qa-infra-portfolio](https://github.com/Pepetrueno-desing/qa-infra-portfolio) — CI/CD + Docker + Kubernetes
+### 🏗️ [qa-infra-portfolio](https://github.com/juanmendoza-qa/qa-infra-portfolio) — CI/CD + Docker + Kubernetes
 Empaqueta una suite de pruebas pytest y la ejecuta de forma reproducible en contenedores.
 - Imagen Docker liviana para correr la suite igual en cualquier máquina
 - Job efímero de Kubernetes que falla rápido si una prueba falla
 - Pipeline de GitHub Actions: construye la imagen, ejecuta las pruebas en cada push y sube el reporte JUnit
 - **Tecnologías:** Python, pytest, Docker, Kubernetes, GitHub Actions
 
-### 📱 [qa-final-integrator-urban](https://github.com/Pepetrueno-desing/qa-final-integrator-urban) — API + UI + Android
+### 📱 [qa-final-integrator-urban](https://github.com/juanmendoza-qa/qa-final-integrator-urban) — API + UI + Android
 Proyecto final integrador sobre la aplicación Urban Scooter.
 - Pruebas de API con clases de equivalencia y valores límite
 - Pruebas de interfaz con Selenium y de la app Android en emulador, incluida la pérdida de conexión
@@ -116,16 +116,16 @@ Proyecto final integrador sobre la aplicación Urban Scooter.
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pepetrueno-desing&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanmendoza-qa&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepetrueno-desing&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmendoza-qa&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pepetrueno-desing)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanmendoza-qa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mendozagomez0203@gmail.com)
 
 ---
