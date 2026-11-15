@@ -6,9 +6,9 @@ Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras
 
 - 🔭 Actualmente: **proyecto final integrador completado**
 - 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP
-- 🌱 Aprendiendo: Playwright, GitHub Actions, Postman avanzado, Implementacion de RAG
+- 🌱 Aprendiendo: Playwright, Postman avanzado, Implementacion de RAG
 - 💬 Pregúntame sobre: pytest, requests, Selenium, POM, SAP PP/MM, Power BI, logística
-- 📫 Contacto: mendozagomez0203@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b)
+- 📫 Contacto: mendozagomez0203@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b) | [Portafolio](https://pepetrueno-desing.github.io)
 
 ---
 
@@ -62,6 +62,20 @@ Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el fl
 - Esperas explícitas (`WebDriverWait` + `expected_conditions`), JS clicks, manejo de modales y overlays
 - **Tecnologías:** Python, Selenium, pytest, POM
 
+### 🏗️ [qa-infra-portfolio](https://github.com/Pepetrueno-desing/qa-infra-portfolio) — CI/CD + Docker + Kubernetes
+Empaqueta una suite de pruebas pytest y la ejecuta de forma reproducible en contenedores.
+- Imagen Docker liviana para correr la suite igual en cualquier máquina
+- Job efímero de Kubernetes que falla rápido si una prueba falla
+- Pipeline de GitHub Actions: construye la imagen, ejecuta las pruebas en cada push y sube el reporte JUnit
+- **Tecnologías:** Python, pytest, Docker, Kubernetes, GitHub Actions
+
+### 📱 [qa-final-integrator-urban](https://github.com/Pepetrueno-desing/qa-final-integrator-urban) — API + UI + Android
+Proyecto final integrador sobre la aplicación Urban Scooter.
+- Pruebas de API con clases de equivalencia y valores límite
+- Pruebas de interfaz con Selenium y de la app Android en emulador, incluida la pérdida de conexión
+- Defectos publicados como GitHub Issues con trazabilidad a Jira
+- **Tecnologías:** Python, pytest, requests, Selenium, Android Studio, adb, PostgreSQL
+
 ---
 
 ## 🧠 Lo que puedo hacer como QA Automation Engineer
@@ -73,9 +87,9 @@ Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el fl
 | **Aplicar Page Object Model (POM)** | ✅ Intermedio | `qa-project-Urban-Routes-es` |
 | **Manejar esperas explícitas** | ✅ Avanzado | `WebDriverWait` + `expected_conditions` en todos los tests UI |
 | **Documentar y reportar bugs** | ✅ Avanzado | 4 bugs documentados en Urban Grocers |
-| **Trabajar con Git y GitHub** | ✅ Avanzado | 3 repos públicos, SSH configurado |
-| **Documentar proyectos con README** | ✅ Avanzado | README profesional en los 3 repos |
-| **Integrar pruebas en CI/CD** | 🌱 Aprendiendo | GitHub Actions (próximo) |
+| **Trabajar con Git y GitHub** | ✅ Avanzado | 5 repos públicos, SSH configurado |
+| **Documentar proyectos con README** | ✅ Avanzado | README profesional en los 5 repos |
+| **Integrar pruebas en CI/CD** | ✅ Intermedio | GitHub Actions, Docker y Kubernetes Job en `qa-infra-portfolio` |
 | **Testing en entornos SAP** | 🌱 Aprendiendo | Visión funcional SAP + testing automatizado |
 
 ---
@@ -85,8 +99,8 @@ Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el fl
 | Área | Experiencia |
 |---|---|
 | **SAP PP/MM** | Consultor funcional (2017–2019): rollout, soporte y capacitación. Usuario SAP desde 2014 |
-| **Logística** | Gestión de compras, inventario, KPIs, optimización de costos (-15%) |
-| **Data** | Power BI, dashboards, automatización de reportes (-10 h/mes) |
+| **Logística** | Gestión de compras, inventario, KPIs y optimización de costos |
+| **Data** | Power BI, dashboards y automatización de reportes |
 | **Testing** | pytest, requests, Selenium, API testing, UI testing, documentación de bugs |
 
 ---
@@ -96,7 +110,7 @@ Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el fl
 - **MBA + Máster en Big Data & Business Intelligence** — Universidad Isabel I (2024-2025)
 - **Ingeniería en Ciencias Gerenciales** — UNITEC Venezuela (2011-2016)
 - **Certificaciones SAP:** RISE with SAP, EWM, S/4HANA Sourcing & Procurement
-- **QA Automation** — TripleTen Bootcamp (2026, en curso)
+- **QA Automation** — TripleTen Bootcamp (abr–nov 2026)
 
 ---
 
