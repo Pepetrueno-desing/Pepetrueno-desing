@@ -2,7 +2,7 @@
 
 ## QA Automation Engineer | SAP PP/MM Functional Consultant | Data & Logistics Background
 
-Ingeniero en Ciencias Gerenciales con **10 años en SAP PP/MM, logística y análisis de datos**, en transición activa hacia **QA Automation con Python**. Aporto algo poco común en QA junior: **visión de negocio + criterio funcional SAP + capacidad técnica en pruebas automatizadas de API y UI**.
+Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras, logística y SAP PP/MM**, en transición activa hacia **QA Automation con Python**. Aporto algo poco común en QA junior: **visión de negocio + criterio funcional SAP + capacidad técnica en pruebas automatizadas de API y UI**.
 
 - 🔭 Actualmente: **proyecto final integrador completado**
 - 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP
@@ -84,7 +84,7 @@ Suite de pruebas automatizadas de UI con **Selenium WebDriver + POM** para el fl
 
 | Área | Experiencia |
 |---|---|
-| **SAP PP/MM** | +6 años como consultor funcional (rollout, soporte, capacitación) |
+| **SAP PP/MM** | Consultor funcional (2017–2019): rollout, soporte y capacitación. Usuario SAP desde 2014 |
 | **Logística** | Gestión de compras, inventario, KPIs, optimización de costos (-15%) |
 | **Data** | Power BI, dashboards, automatización de reportes (-10 h/mes) |
 | **Testing** | pytest, requests, Selenium, API testing, UI testing, documentación de bugs |
